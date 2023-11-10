@@ -141,6 +141,7 @@ body {
         grid-template-columns: 50% 50%;
         grid-template-areas: "a a""b c";
         --content-padding: 2rem 2rem;
+        overflow: hidden;
     }
 
     .introduction {
